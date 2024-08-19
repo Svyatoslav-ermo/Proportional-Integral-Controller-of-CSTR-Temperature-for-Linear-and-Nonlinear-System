@@ -1,0 +1,2 @@
+# Proportional-Integral-Controller-of-CSTR-Temperature-for-Linear-and-Nonlinear-System
+The project involves developing and analyzing PI controller for CSTR using MATLAB. Key tasks include solving nonlinear system, calculating the Jacobian matrix, performing eigenvalue analysis to assess system stability, and designing a PI controller. The controller's performance is optimized by tuning parameters for desired system behavior.
